@@ -1,0 +1,5 @@
+.claude/setting.local.json
+.vscode/ 
+.idea/ 
+*.DS_Store
+/my-issue2md-project
